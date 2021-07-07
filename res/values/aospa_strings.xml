@@ -71,4 +71,9 @@
     <string name="show_ime_space_title">Show IME button space</string>
     <string name="show_ime_space_summary">Enable the input method quick switch feature to switch input methods or hide the on-screen keyboard from the feature bar at the bottom of the screen when typing</string>
 
+    <!-- Display settings screen, increased touch sensitivity settings title [CHAR LIMIT=30] -->
+    <string name="touch_sensitivity_title">Increase touch sensitivity</string>
+    <!-- Display settings screen, increased touch sensitivity settings summary [CHAR LIMIT=NONE] -->
+    <string name="touch_sensitivity_summary">Improves touch when using screen protectors</string>
+
 </resources>

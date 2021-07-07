@@ -3,4 +3,7 @@
 <resources>
     <!-- Show Now Playing -->
     <bool name="config_show_now_playing">false</bool>
+
+    <!-- Whether device supports increased touch sensitvity -->
+    <bool name="config_supportGloveMode">false</bool>
 </resources>
