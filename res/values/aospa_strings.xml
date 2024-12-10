@@ -12,4 +12,9 @@
     <!-- Three-fingers-swipe to screenshot -->
     <string name="three_finger_gesture">Swipe to screenshot</string>
     <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+
+    <!-- Scroll Haptics -->
+    <string name="haptic_on_scroll_title">Scroll Gesture</string>
+    <string name="haptic_on_scroll_summary">Do haptic feedback when doing scroll/fling gesture</string>
+
 </resources>
