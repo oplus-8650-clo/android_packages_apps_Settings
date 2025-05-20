@@ -78,6 +78,13 @@
             android:defaultValue="false" />
     </PreferenceCategory>
 
+    <!-- Show IME Space -->
+    <co.aospa.framework.preference.SecureSettingSwitchPreference
+        android:key="navbar_ime_space"
+        android:title="@string/show_ime_space_title"
+        android:summary="@string/show_ime_space_summary"
+        android:defaultValue="true" />
+
     <com.android.settingslib.widget.FooterPreference
         android:key="gesture_navigation_settings_footer"
         android:title="@string/back_sensitivity_dialog_message"
