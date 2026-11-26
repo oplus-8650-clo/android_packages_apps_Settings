@@ -42,6 +42,13 @@
             settings:userRestriction="no_config_brightness"
             settings:controller="com.android.settings.display.AutoBrightnessPreferenceController" />
 
+        <SwitchPreferenceCompat
+            android:key="qqs_brightness_slider"
+            android:persistent="false"
+            android:title="@string/qqs_brightness_slider_title"
+            android:summary="@string/qqs_brightness_slider_summary"
+            settings:controller="co.aospa.settings.display.QqsBrightnessSliderPreferenceController" />
+
         <com.android.settingslib.PrimarySwitchPreference
             android:fragment="com.android.settings.display.HdrBrightnessSettings"
             android:key="hdr_preference"
